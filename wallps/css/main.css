@@ -23,6 +23,8 @@ h2{
 a{
     text-decoration: none;
     color: #d8dee9;
+    display: table;
+    margin-bottom: 20px;
 }
 
 
