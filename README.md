@@ -1,2 +1,2 @@
 # wallps
-Wallpapers thatI like
+Wallpapers that I like
